@@ -1,0 +1,7 @@
+/.vscode/
+/config.yml
+/chromedriver.exe
+*.html
+*.xml
+/__pycache__/
+/pylintrc
