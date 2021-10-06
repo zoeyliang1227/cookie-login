@@ -12,4 +12,4 @@
 
 ## Run
 
-robot testcase.robot
+python shopee.py
